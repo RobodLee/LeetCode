@@ -3,8 +3,9 @@ package com.robod.leetcode.string;
 /**
  * @author Robod
  * @date 2020/8/1 17:01
+ * 转换成小写字母
  */
-public class _709_toLowerCase {
+public class $709_toLowerCase {
 
     public String toLowerCase(String str) {
         char[] chars = str.toCharArray();
@@ -18,7 +19,7 @@ public class _709_toLowerCase {
     }
 
     public static void main(String[] args) {
-        System.out.println(new _709_toLowerCase().toLowerCase("Hello"));
+        System.out.println(new $709_toLowerCase().toLowerCase("Hello"));
     }
 
 }

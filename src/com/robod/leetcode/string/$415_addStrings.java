@@ -5,8 +5,9 @@ import java.util.Arrays;
 /**
  * @author Robod
  * @date 2020/8/1 17:15
+ * 字符串相加
  */
-public class _415_addStrings {
+public class $415_addStrings {
 
     public String addStrings(String num1, String num2) {
         int lengthDiff = num1.length() - num2.length();
@@ -37,6 +38,6 @@ public class _415_addStrings {
     }
 
     public static void main(String[] args) {
-        System.out.println(new _415_addStrings().addStrings("6666", "7777"));
+        System.out.println(new $415_addStrings().addStrings("6666", "7777"));
     }
 }
