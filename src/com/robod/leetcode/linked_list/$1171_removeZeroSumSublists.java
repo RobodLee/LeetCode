@@ -10,7 +10,7 @@ import com.robod.entity.ListNode;
 public class $1171_removeZeroSumSublists {
 
     public ListNode removeZeroSumSublists(ListNode head) {
-
+        return null;
     }
 
 }
