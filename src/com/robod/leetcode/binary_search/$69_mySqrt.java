@@ -19,10 +19,6 @@ public class $69_mySqrt {
             else if(num > x) right = (int) (middle-1);
             else left = (int) (middle+1);
         }
-        long a = Integer.MAX_VALUE;
-        long b = Integer.MAX_VALUE;
-        long c = a*b > Integer.MAX_VALUE ? 1 : 0;
-        System.out.println(c);
         return right;
     }
 
