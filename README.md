@@ -1,4 +1,4 @@
-## $69. [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)（简单、二分搜索）
+## $[69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)（简单；二分搜索）
 
 + ### 2020/8/12
 
@@ -8,13 +8,21 @@
 
 ***
 
-## $162. [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)（中等，数组）
+## $[162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)（中等；数组）
 
 + ### 2020/8/13
 
-这题可以用线性扫描的暴力解法，但是时间复杂度就是O(n)，要想降低时间复杂度，可以采用二分搜索 + 递归 的思想。
+这题可以用线性扫描的暴力解法，但是时间复杂度就是O(n)，要想降低时间复杂度，可以采用二分搜索 + 递归 的方式。
 
 在指定的一段区间中找到middle的值。如果正好位于峰值，直接返回即可；如果处于上升期，递归middle右边的部分，如果处于下降区间，递归middle左边的部分。
 
 ***
+
+## $[350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)（简单；哈希表）
+
++ ### 2020/8/15
+
+先将数组1放入一个Map中，key是数组中的数字，value是数字出现的次数。再准备一个List去存放结果。
+
+遍历数组2，如果Map中有对应的值，说明这个是交集，加入List并将Map中对应的Value减1。最后遍历List，转为int[]返回即可。
 
