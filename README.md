@@ -6,7 +6,7 @@
 
 	但是这样会存在一个问题，就是没法去删除第一个节点。所以事先在head前面添加一个节点p，这样最后返回 p.next 即可。
 
-+++
+***
 
 ## $[69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)（简单；二分搜索）
 
@@ -24,7 +24,7 @@
 
 	这题可以采用二分查找的思想，行数是**matrix.length**，列数是**matrix[0].length**；行坐标是**middle/column**，列坐标是**middle&column**。然后就可以当作一维数组的方式处理了。
 
-+++
+***
 
 ## $[162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)（中等；数组）
 
@@ -44,7 +44,7 @@
 
 	遍历数组2，如果Map中有对应的值，说明这个是交集，加入List并将Map中对应的Value减1。最后遍历List，转为int[]返回即可。
 
-+++
+***
 
 ## $[1437. 是否所有 1 都至少相隔 k 个元素](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)（中等；数组）
 
@@ -54,5 +54,8 @@
 
 	先遍历到第一个1所在的位置，记录下来。再接着遍历，没遇到一个1就判断是否满足，满足就更新1的位置，接着遍历。不满足就直接返回false。
 
-+++
+***
 
+
+
+![微信公众号](https://gitee.com/RobodLee/image_store/raw/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png)
