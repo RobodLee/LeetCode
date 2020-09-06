@@ -18,11 +18,17 @@
 
 ***
 
-## $[74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)（中等，数组）
+## $[74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)（中等；数组）
 
 + ### 2020/8/25
 
 	这题可以采用二分查找的思想，行数是**matrix.length**，列数是**matrix[0].length**；行坐标是**middle/column**，列坐标是**middle&column**。然后就可以当作一维数组的方式处理了。
+
+***
+
+## $[80. 删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)（中等；双指针）
+
+这题要求原地删除元素，所以可以采用双重循环。外层循环遍历整个数组，i<length，length代表数组的长度，当删除元素后，length的值相应改变。每次遍历的时候记录下当前元素出现的次数，如果大于二就开始内层循环删除元素。
 
 ***
 
@@ -56,6 +62,14 @@
 
 ***
 
+## $[剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)（简单）
+
++ ###  2020/9/1
+
+	一个最简单的方法就是遍历，准备一个Map集合，依次判断Map中是否已经有相同的值了，有的话就说明是重复数字，直接返回，没有的话就放入Map中再进行下一步遍历。
+
+## $[剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
 
 
-![微信公众号](https://gitee.com/RobodLee/image_store/raw/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png)
+
+![微信公众号](https://gitee.com/RobodLee/image_store/raw/master/QRcode2.0.png)
