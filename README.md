@@ -52,6 +52,16 @@
 
 ***
 
+## $[844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)（简单；链表）
+
++ ### 2020/9/15
+
+	首先将两个字符串转换成数组，然后分别遍历并添加到相应的栈中，遍历的时候遇到非“#”就压栈，遇到“#”判断栈是否为空，空的话不做任何操作，不为空的话就出栈。
+
+	最后将两个栈再转换成数组，通过**Arrays.equals()**进行比较，返回结果。
+
+***
+
 ## $[1437. 是否所有 1 都至少相隔 k 个元素](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)（中等；数组）
 
 + ### 2020/8/24
