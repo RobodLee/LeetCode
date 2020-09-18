@@ -1,4 +1,4 @@
-package com.robod.leetcode.offer;
+package com.robod.offer;
 
 /**
  * @author Robod

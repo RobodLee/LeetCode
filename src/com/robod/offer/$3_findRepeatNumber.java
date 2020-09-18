@@ -1,4 +1,4 @@
-package com.robod.leetcode.offer;
+package com.robod.offer;
 
 import java.util.HashMap;
 import java.util.Map;

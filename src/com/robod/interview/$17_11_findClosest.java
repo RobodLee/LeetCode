@@ -1,4 +1,4 @@
-package com.robod.leetcode.interview;
+package com.robod.interview;
 
 /**
  * @author Robod
