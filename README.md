@@ -104,6 +104,24 @@
 
 ***
 
+## $[剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)（简单）
+
+### 2020-9-18
+
+先遍历一遍链表，将结果依次放入栈中，这样再从栈中取值就是逆序打印了。
+
+遍历完链表后就可以知道数的个数，然后创建一个数组。依次从栈中取值放入数组中，然后返回。
+
+***
+
+## $[剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)（简单）
+
+### 2020-9-18
+
+
+
+
+
 ## $[剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
 
 
