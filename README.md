@@ -118,6 +118,30 @@
 
 ### 2020-9-18
 
+队列是先进先出，栈是先进后出。添加数据时存入Stack1中，取数据时，判断stack2中是否有数据，有的话从stack2中取，没有的话将stack1中的数据依次弹出再压入stack2，再从stack2中取，如果此时stack2中没有数据，说明队列中没有数据，返回-1。
+
+***
+
+## $[剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)（简单）
+
+### 2020-9-20
+
+这题采用递归的方式很好理解，但是如果数比较大的话，递归栈压得就比较深，耗性能。所以采用循环的方式叠加上去，因为f(n) = f(n)-1 + f(n)-2。所以从0开始往上加就可以了。
+
+***
+
+## $[剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)（简单）
+
+### 2020-9-20
+
+当n=0的时候只有一种跳法，当n=1的时候也只有一种跳法，当n=2的时候有两种跳法。当n=3的时候，上一步可能在台阶1或者台阶2，所以是n=1和n=2的跳法之和。所以当n>=3的时候，**f(n) = f(n)-1 + f(n)-2**。就是斐波那契数列，和上一题解法一样。
+
+***
+
+## $[剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)（简单；二分查找）
+
+
+
 
 
 
