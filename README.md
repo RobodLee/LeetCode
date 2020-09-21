@@ -1,3 +1,11 @@
+# LeetCode题解
+
++ [CSDN](https://blog.csdn.net/weixin_43461520)  
++ [掘金](https://juejin.im/user/3175045314120631)  
++ [博客园](https://www.cnblogs.com/robod/)
++ 公众号：[Robod](https://gitee.com/RobodLee/image_store/blob/master/QRcode2.0.png)
++ Github：[https://github.com/RobodLee](https://github.com/RobodLee)
+
 ## $[19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)（中等；双指针）
 
 ### 2020/8/20
@@ -140,9 +148,19 @@
 
 ## $[剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)（简单；二分查找）
 
+### 2020/9/20
 
+正常的情况下，第一个元素是大于等于最后一个元素的。所以中间元素如果大于等于left，则中间元素在第一个递增序列；如果中间元素小于right，则中间元素在第二个递增序列。最后的情况应该是left指向第一个递增序列的最后一个元素，right指向第二个递增序列的第一个元素，所以**right-left==1**的时候就可以找到最小的元素。但是也有特殊的情况，就是**left=middle=right**，这种情况只能从头遍历。
 
+***
 
+## $[剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)（中等，回溯）
+
+### 2020/9/21
+
+该题采用回溯的方法，当走到一格的时候，分别从上下左右四个方向去试，如果某个方向不行的话就返回false退回上一步。走过的格子临时将其改为 **“~”**，当遇到**“~”**的时候说明该格已经走过，返回false，当返回false的时候将改为~的格子再改回去。
+
+***
 
 
 
