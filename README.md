@@ -162,7 +162,11 @@
 
 ***
 
+## $[剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)（中等；回溯）
 
+### 20209/24
+
+和上一题类似，采用回溯的算法，先用一个二维的boolean数组存放某个格子时候走过，然后从0,0开始走，每到一个格子都走上下左右四个方向。
 
 ## $[剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
 
