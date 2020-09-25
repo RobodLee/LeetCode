@@ -168,7 +168,24 @@
 
 和上一题类似，采用回溯的算法，先用一个二维的boolean数组存放某个格子时候走过，然后从0,0开始走，每到一个格子都走上下左右四个方向。
 
-## $[剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
+## $[剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)（简单）
+
+先定义一个变量flag=1。然后和n进行与操作，比较完了之后再将flag左移一位，这样就是一位一位的比较，但是最高位比不了。所以最后和第32位单独与一下。
+
+## $[剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)（中等）
+
+### 2020-9-25
+
+![](https://gitee.com/RobodLee/image_store/raw/master/算法和数据结构/LeetCode题解/a的n次方公式.jpg)
+
+这题可以采用上述公式递归的方式求解。一开始要考虑几个特殊情况
+
++ 任何数的0次方等于1，0的0次方也当成0处理
++ 1的任意次方等于1
++ -1的偶数次方等于1，奇数次方等于-1
++ 如果n小于等于Integer.MIN_VALUE的话，结果会非常小，当成0处理
+
+***
 
 
 
