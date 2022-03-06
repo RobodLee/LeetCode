@@ -22,7 +22,7 @@ public class $26删除有序数组中的重复项220301 {
                 nums[++slowPointer] = nums[fastPointer];
             }
         }
-        return slowPointer - 1;
+        return slowPointer + 1;
     }
 
     public static void main(String[] args) {
