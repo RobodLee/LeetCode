@@ -10,7 +10,7 @@ import java.util.Map;
  * @date 2022/4/21 20:02
  * @description
  */
-public class $142环形链表II {
+public class $142环形链表II220421 {
 
     public ListNode detectCycle(ListNode head) {
         Map<ListNode, Boolean> map = new HashMap<>();
@@ -35,7 +35,7 @@ public class $142环形链表II {
         n2.next = n3;
         n3.next = n4;
         n4.next = n2;
-        new $142环形链表II().detectCycle(n1);
+        new $142环形链表II220421().detectCycle(n1);
     }
 
 }

@@ -1,4 +1,4 @@
-# LeetCode题解
+# LeetCode 刷题笔记
 
 + [CSDN](https://blog.csdn.net/weixin_43461520)  
 + [掘金](https://juejin.im/user/3175045314120631)  

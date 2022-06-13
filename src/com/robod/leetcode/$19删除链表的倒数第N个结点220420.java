@@ -9,7 +9,7 @@ import com.robod.entity.ListNode;
  *
  * 中等。
  */
-public class $19删除链表的倒数第N个结点 {
+public class $19删除链表的倒数第N个结点220420 {
 
     //例如：
     //dummy -> 1 -> 2 -> 3 -> 4 -> 5
