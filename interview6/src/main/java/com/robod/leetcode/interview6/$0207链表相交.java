@@ -1,6 +1,6 @@
-package com.robod.Cracking_the_Coding_Interview;
+package com.robod.leetcode.interview6;
 
-import com.robod.entity.ListNode;
+import com.robod.leetcode.common.entity.ListNode;
 
 /**
  * @author Robod

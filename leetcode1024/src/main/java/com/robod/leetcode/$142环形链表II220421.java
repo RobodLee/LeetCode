@@ -1,6 +1,6 @@
 package com.robod.leetcode;
 
-import com.robod.entity.ListNode;
+import com.robod.leetcode.common.entity.ListNode;
 
 import java.util.HashMap;
 import java.util.Map;
