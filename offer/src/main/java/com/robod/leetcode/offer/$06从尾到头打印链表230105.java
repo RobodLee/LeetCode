@@ -4,7 +4,7 @@ import com.robod.leetcode.common.entity.ListNode;
 
 /**
  * @ClassName $06从尾到头打印链表
- * @Description 简单
+ * @Description 简单.https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
  * @Author Robod
  * @Date 2023/1/5 19:48
  * @Version 1.0

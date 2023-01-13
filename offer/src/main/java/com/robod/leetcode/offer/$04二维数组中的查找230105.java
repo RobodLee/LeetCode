@@ -2,7 +2,7 @@ package com.robod.leetcode.offer;
 
 /**
  * @ClassName $04二维数组中的查找230105
- * @Description 中等。二叉搜索树
+ * @Description 中等。二叉搜索树。链接：https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/
  * @Author Robod
  * @Date 2023/1/5 09:27
  * @Version 1.0

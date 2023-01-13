@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @ClassName $10_II青蛙跳台阶问题
- * @Description 简单。等同于斐波那契问题
+ * @Description 简单。等同于斐波那契问题.https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/
  * @Author Robod
  * @Date 2023/1/7 22:32
  * @Version 1.0
