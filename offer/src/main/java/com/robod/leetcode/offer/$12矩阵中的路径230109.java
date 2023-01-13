@@ -11,10 +11,10 @@ package com.robod.leetcode.offer;
  **/
 public class $12矩阵中的路径230109 {
 
-    int m;
-    int n;
-    int len;
-    boolean[][] visited;
+    int m;  // 行
+    int n;  // 列
+    int len;    // 单词长度
+    boolean[][] visited;    // 记录是否访问过
 
     public boolean exist(char[][] board, String word) {
         m = board.length;
