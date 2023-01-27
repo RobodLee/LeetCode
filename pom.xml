@@ -10,6 +10,13 @@
     <version>1.0-SNAPSHOT</version>
     <description>LeetCode题解</description>
 
+    <modules>
+        <module>offer</module>
+        <module>common</module>
+        <module>leetcode1024</module>
+        <module>interview6</module>
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -32,11 +39,5 @@
             </plugin>
         </plugins>
     </build>
-    <modules>
-        <module>offer</module>
-        <module>common</module>
-        <module>leetcode1024</module>
-        <module>interview6</module>
-    </modules>
 
 </project>
