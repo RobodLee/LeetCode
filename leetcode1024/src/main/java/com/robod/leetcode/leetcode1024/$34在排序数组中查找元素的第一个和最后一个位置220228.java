@@ -1,14 +1,14 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/2/28 16:53
- * @description 给定一个按照升序排列的整数数组 nums，和一个目标值 target。找出给定目标值在数组中的开始位置和结束位置。
- *
- * 如果数组中不存在目标值 target，返回 [-1, -1]。
- *
- * 二分查找
- */
+ * @ClassName $34在排序数组中查找元素的第一个和最后一个位置220228
+ * @Description 中等，二分。https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/
+ * @Author Robod
+ * @Date 2022/2/28 16:53
+ * @Version 1.0
+ * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $34在排序数组中查找元素的第一个和最后一个位置220228 {
 
     private int[] searchRange(int[] nums, int target) {

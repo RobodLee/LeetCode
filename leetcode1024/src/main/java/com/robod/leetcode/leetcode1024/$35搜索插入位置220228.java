@@ -1,13 +1,14 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/2/28 12:08
- * @description 给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。
- * 请必须使用时间复杂度为 O(log n) 的算法。
- *
- * 二分查找
- */
+ * @ClassName $35搜索插入位置220228
+ * @Description 简单。二分搜索。https://leetcode.cn/problems/search-insert-position/
+ * @Author Robod
+ * @Date 2022/2/28 12:08
+ * @Version 1.0
+ * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $35搜索插入位置220228 {
 
     private int searchInsert(int[] nums, int target) {
