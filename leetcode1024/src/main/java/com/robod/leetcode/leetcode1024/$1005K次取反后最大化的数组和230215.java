@@ -5,7 +5,7 @@ package com.robod.leetcode.leetcode1024;
  * @Description 简单，贪心。https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/
  * @Author Robod
  * @Date 2023/2/15 14:04
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $1005K次取反后最大化的数组和230215 {

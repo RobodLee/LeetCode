@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @Author Robod
  * @Date 2023/2/6 12:57
  * @Version 1.0
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $455分发饼干230206 {

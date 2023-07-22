@@ -10,7 +10,7 @@ import java.util.Map;
  * @Description 中等，贪心。https://leetcode.cn/problems/partition-labels/
  * @Author Robod
  * @Date 2023/2/22 01:10
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $763划分字母区间230222 {

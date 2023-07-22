@@ -1,12 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/5/1 19:51
- * @description 链接；https://leetcode-cn.com/problems/valid-anagram/
- *
- * 简单。哈希
- */
+ * @ClassName $242有效的字母异位词220501
+ * @Description 简单。https://leetcode-cn.com/problems/valid-anagram/
+ * @Author Robod
+ * @Date 2022/5/1 19:51
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $242有效的字母异位词220501 {
 
     public boolean isAnagram(String s, String t) {

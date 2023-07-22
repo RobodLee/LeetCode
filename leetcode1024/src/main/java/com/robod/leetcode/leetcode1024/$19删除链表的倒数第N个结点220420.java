@@ -3,12 +3,13 @@ package com.robod.leetcode.leetcode1024;
 import com.robod.leetcode.common.entity.ListNode;
 
 /**
- * @author Robod
- * @date 2022/4/20 9:00
- * @description 链接：https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
- *
- * 中等。
- */
+ * @ClassName $19删除链表的倒数第N个结点220420
+ * @Description 中等。https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
+ * @Author Robod
+ * @Date 2022/4/20 9:00
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $19删除链表的倒数第N个结点220420 {
 
     //例如：
@@ -34,4 +35,5 @@ public class $19删除链表的倒数第N个结点220420 {
         slow.next = slow.next.next; //删除4
         return dummyNode.next;
     }
+
 }

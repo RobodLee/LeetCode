@@ -10,7 +10,7 @@ import java.util.List;
  * @Description 中等，贪心。https://leetcode.cn/problems/queue-reconstruction-by-height/
  * @Author Robod
  * @Date 2023/2/19 16:19
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $406根据身高重建队列230219 {

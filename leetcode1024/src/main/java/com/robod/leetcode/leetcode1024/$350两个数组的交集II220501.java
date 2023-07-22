@@ -6,12 +6,13 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author Robod
- * @date 2022/5/1 20:36
- * @description ：https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
- *
- * 简单。哈希
- */
+ * @ClassName $350两个数组的交集II220501
+ * @Description 简单。https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
+ * @Author Robod
+ * @Date 2022/5/1 20:36
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $350两个数组的交集II220501 {
 
     public int[] intersect(int[] nums1, int[] nums2) {

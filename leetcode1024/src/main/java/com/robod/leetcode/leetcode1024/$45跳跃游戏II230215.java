@@ -5,7 +5,7 @@ package com.robod.leetcode.leetcode1024;
  * @Description 中等，模拟跳跃。https://leetcode.cn/problems/jump-game-ii/
  * @Author Robod
  * @Date 2023/2/15 00:58
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $45跳跃游戏II230215 {

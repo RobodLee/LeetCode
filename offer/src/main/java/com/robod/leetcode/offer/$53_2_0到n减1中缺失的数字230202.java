@@ -6,7 +6,7 @@ package com.robod.leetcode.offer;
  * @Author Robod
  * @Date 2023/2/2 19:37
  * @Version 1.0
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $53_2_0到n减1中缺失的数字230202 {

@@ -1,14 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/3/6
- * @description 给定一个含有 n 个正整数的数组和一个正整数 target 。
- * <p>
- * 找出该数组中满足其和 ≥ target 的长度最小的 连续子数组 [numsl, numsl+1, ..., numsr-1, numsr] ，并返回其长度。如果不存在符合条件的子数组，返回 0 。
- * <p>
- * 中等。滑动窗口
- */
+ * @ClassName $209长度最小的子数组220306
+ * @Description 中等。滑动窗口。https://leetcode.cn/problems/minimum-size-subarray-sum/
+ * @Author Robod
+ * @Date 2022/3/6
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $209长度最小的子数组220306 {
 
     private int minSubArrayLen(int target, int[] nums) {

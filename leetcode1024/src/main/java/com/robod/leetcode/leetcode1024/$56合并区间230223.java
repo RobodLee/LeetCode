@@ -8,7 +8,7 @@ import java.util.LinkedList;
  * @Description 中等，贪心。https://leetcode.cn/problems/merge-intervals/
  * @Author Robod
  * @Date 2023/2/23 17:12
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $56合并区间230223 {

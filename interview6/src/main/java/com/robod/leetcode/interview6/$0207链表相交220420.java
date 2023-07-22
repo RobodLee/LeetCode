@@ -3,11 +3,14 @@ package com.robod.leetcode.interview6;
 import com.robod.leetcode.common.entity.ListNode;
 
 /**
- * @author Robod
- * @date 2022/4/20 9:32
- * @description 链接：https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/
- */
-public class $0207链表相交 {
+ * @ClassName $0207链表相交220420
+ * @Description 简单。https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/
+ * @Author Robod
+ * @Date 2022/4/20 9:32
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
+public class $0207链表相交220420 {
 
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode curA = headA;

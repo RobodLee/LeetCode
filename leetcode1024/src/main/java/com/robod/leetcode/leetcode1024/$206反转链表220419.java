@@ -3,12 +3,13 @@ package com.robod.leetcode.leetcode1024;
 import com.robod.leetcode.common.entity.ListNode;
 
 /**
- * @author Robod
- * @date 2022/4/19 15:23
- * @description 链接：https://leetcode-cn.com/problems/reverse-linked-list/
- * <p>
- * 简单。双指针法
- */
+ * @ClassName $206反转链表220419
+ * @Description 简单。https://leetcode-cn.com/problems/reverse-linked-list/
+ * @Author Robod
+ * @Date 2022/4/19 15:23
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $206反转链表220419 {
 
     //改变指针的指向，使得原本指向下一个节点的指针指向上一个结点

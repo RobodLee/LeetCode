@@ -4,12 +4,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Robod
- * @date 2022/5/6 22:57
- * @description :https://leetcode-cn.com/problems/two-sum/
- * <p>
- * 简单。哈希。
- */
+ * @ClassName $1两数之和220506
+ * @Description 简单。哈希。https://leetcode-cn.com/problems/two-sum/
+ * @Author Robod
+ * @Date 2022/5/6 22:57
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $1两数之和220506 {
 
     public int[] twoSum(int[] nums, int target) {
@@ -29,4 +30,5 @@ public class $1两数之和220506 {
         }
         return null;
     }
+
 }

@@ -1,11 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/3/3 11:47
- * @description 给定 s 和 t 两个字符串，当它们分别被输入到空白的文本编辑器后，如果两者相等，返回 true 。# 代表退格字符。
- * 注意：如果对空文本输入退格字符，文本继续为空。
- */
+ * @ClassName $844比较含退格的字符串220303
+ * @Description 简单。https://leetcode.cn/problems/backspace-string-compare/
+ * @Author Robod
+ * @Date 2022/3/3 11:47
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $844比较含退格的字符串220303 {
 
     private boolean backspaceCompare(String s, String t) {

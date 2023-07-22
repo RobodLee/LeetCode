@@ -1,10 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/3/3 11:48
- * @description 给你一个按 非递减顺序 排序的整数数组 nums，返回 每个数字的平方 组成的新数组，要求也按 非递减顺序 排序。
- */
+ * @ClassName $977有序数组的平方220303
+ * @Description 简单。https://leetcode.cn/problems/squares-of-a-sorted-array/
+ * @Author Robod
+ * @Date 2022/3/3 11:48
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $977有序数组的平方220303 {
 
     /**
@@ -46,7 +49,4 @@ public class $977有序数组的平方220303 {
         return result;
     }
 
-    public static void main(String[] args) {
-
-    }
 }

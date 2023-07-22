@@ -3,12 +3,13 @@ package com.robod.leetcode.leetcode1024;
 import com.robod.leetcode.common.entity.ListNode;
 
 /**
- * @author Robod
- * @date 2022/4/19 15:42
- * @description 链接：https://leetcode-cn.com/problems/swap-nodes-in-pairs/
- * <p>
- * 中等。模拟过程
- */
+ * @ClassName $24两两交换链表中的节点220419
+ * @Description 中等。模拟过程。https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+ * @Author Robod
+ * @Date 2022/4/19 15:42
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $24两两交换链表中的节点220419 {
 
     //virtual -> 1 -> 2 -> 3 -> 4
@@ -33,4 +34,5 @@ public class $24两两交换链表中的节点220419 {
         }
         return virtualNode.next;
     }
+
 }

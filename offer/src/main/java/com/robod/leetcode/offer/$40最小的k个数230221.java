@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @Description 简单。https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/
  * @Author Robod
  * @Date 2023/2/21 14:21
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $40最小的k个数230221 {

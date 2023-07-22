@@ -5,7 +5,7 @@ package com.robod.leetcode.leetcode1024;
  * @Description 中等，贪心。https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/
  * @Author Robod
  * @Date 2023/2/14 23:32
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $122买卖股票的最佳时机II230214 {

@@ -1,14 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/2/28 17:27
- * @description 给你一个非负整数 x ，计算并返回 x 的 算术平方根 。
- * <p>
- * 由于返回类型是整数，结果只保留 整数部分 ，小数部分将被 舍去 。
- * <p>
- * 二分法
- */
+ * @ClassName $69x的平方根220228
+ * @Description 简单。https://leetcode.cn/problems/sqrtx/
+ * @Author Robod
+ * @Date 2022/2/28 17:27
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $69x的平方根220228 {
 
     private int mySqrt(int x) {

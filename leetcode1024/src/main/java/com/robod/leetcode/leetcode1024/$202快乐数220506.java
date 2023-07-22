@@ -4,12 +4,13 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author Robod
- * @date 2022/5/6 22:47
- * @description :https://leetcode-cn.com/problems/happy-number/
- *
- * 简单。Set
- */
+ * @ClassName $202快乐数220506
+ * @Description 简单。https://leetcode-cn.com/problems/happy-number/
+ * @Author Robod
+ * @Date 2022/5/6 22:47
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $202快乐数220506 {
 
     public static boolean isHappy(int n) {

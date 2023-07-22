@@ -8,7 +8,7 @@ import com.robod.leetcode.common.entity.TreeNode;
  * @Author Robod
  * @Date 2023/1/15 18:54
  * @Version 1.0
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $27二叉树的镜像230115 {

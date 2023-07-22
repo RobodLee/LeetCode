@@ -4,12 +4,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Robod
- * @date 2022/3/6
- * @description 链接：https://leetcode-cn.com/problems/fruit-into-baskets
- * 问题等价于，找到最长的子序列，最多含有两种“类型”（tree[i] 的值）。
- * 中等。滑动窗口
- */
+ * @ClassName $904水果成篮220306
+ * @Description 中等。https://leetcode-cn.com/problems/fruit-into-baskets
+ * @Author Robod
+ * @Date 2022/3/6
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $904水果成篮220306 {
 
     private int totalFruit(int[] fruits) {

@@ -3,12 +3,13 @@ package com.robod.leetcode.leetcode1024;
 import com.robod.leetcode.common.entity.ListNode;
 
 /**
- * @author Robod
- * @date 2022/4/19 0:02
- * @description 链接：https://leetcode-cn.com/problems/design-linked-list
- * <p>
- * 中等。链表
- */
+ * @ClassName $707设计链表220419
+ * @Description 中等。https://leetcode-cn.com/problems/design-linked-list
+ * @Author Robod
+ * @Date 2022/4/19 0:02
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $707设计链表220419 {
 
     ListNode head;  //虚拟头结点

@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @Description 贪心，中等。https://leetcode.cn/problems/non-overlapping-intervals/
  * @Author Robod
  * @Date 2023/2/21 01:44
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $435无重叠区间230221 {

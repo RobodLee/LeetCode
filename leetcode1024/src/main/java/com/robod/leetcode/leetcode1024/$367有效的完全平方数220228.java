@@ -1,15 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/2/28 18:46
- * @description 给定一个 正整数 num ，编写一个函数，如果 num 是一个完全平方数，则返回 true ，否则返回 false 。
- *
- * 进阶：不要 使用任何内置的库函数，如 sqrt 。
- *
- * 简单
- * 二分
- */
+ * @ClassName $367有效的完全平方数220228
+ * @Description 简单。https://leetcode.cn/problems/valid-perfect-square/
+ * @Author Robod
+ * @Date 2022/2/28 18:46
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $367有效的完全平方数220228 {
 
     public boolean isPerfectSquare(int num) {

@@ -1,10 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/6/12 20:33
- * @description :https://leetcode.cn/problems/reverse-string-ii/
- */
+ * @ClassName $541反转字符串II220612
+ * @Description 简单。https://leetcode.cn/problems/reverse-string-ii/
+ * @Author Robod
+ * @Date 2022/6/12 20:33
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $541反转字符串II220612 {
 
     public String reverseStr(String s, int k) {
@@ -29,4 +32,5 @@ public class $541反转字符串II220612 {
         }
         return new String(chars);
     }
+
 }

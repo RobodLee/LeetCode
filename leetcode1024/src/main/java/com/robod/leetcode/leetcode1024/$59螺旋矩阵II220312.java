@@ -1,12 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/3/12 14:45
- * @description 链接：https://leetcode-cn.com/problems/spiral-matrix-ii/
- * <p>
- * 中等。模拟过程
- */
+ * @ClassName $59螺旋矩阵II220312
+ * @Description 中等。模拟过程。https://leetcode-cn.com/problems/spiral-matrix-ii/
+ * @Author Robod
+ * @Date 2022/3/12 14:45
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $59螺旋矩阵II220312 {
 
     public int[][] generateMatrix(int n) {
@@ -56,4 +57,5 @@ public class $59螺旋矩阵II220312 {
     public static void main(String[] args) {
         new $59螺旋矩阵II220312().generateMatrix(5);
     }
+
 }

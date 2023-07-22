@@ -6,10 +6,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Robod
- * @date 2022/4/21 20:02
- * @description
- */
+ * @ClassName $142环形链表II220421
+ * @Description 中等。https://leetcode.cn/problems/linked-list-cycle-ii/
+ * @Author Robod
+ * @Date 2022/4/21 20:02
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $142环形链表II220421 {
 
     public ListNode detectCycle(ListNode head) {

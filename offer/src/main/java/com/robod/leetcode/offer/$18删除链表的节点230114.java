@@ -8,7 +8,7 @@ import com.robod.leetcode.common.entity.ListNode;
  * @Author Robod
  * @Date 2023/1/14 23:07
  * @Version 1.0
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $18删除链表的节点230114 {

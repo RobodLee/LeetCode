@@ -4,12 +4,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Robod
- * @date 2022/5/22 12:46
- * @description :https://leetcode.cn/problems/4sum-ii/
- * <p>
- * 中等。哈希
- */
+ * @ClassName $454四数相加II220522
+ * @Description 中等。https://leetcode.cn/problems/4sum-ii/
+ * @Author Robod
+ * @Date 2022/5/22 12:46
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $454四数相加II220522 {
 
     public int fourSumCount(int[] nums1, int[] nums2, int[] nums3, int[] nums4) {

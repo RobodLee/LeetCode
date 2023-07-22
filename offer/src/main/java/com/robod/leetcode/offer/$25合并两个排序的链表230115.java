@@ -8,7 +8,7 @@ import com.robod.leetcode.common.entity.ListNode;
  * @Author Robod
  * @Date 2023/1/15 18:48
  * @Version 1.0
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $25合并两个排序的链表230115 {

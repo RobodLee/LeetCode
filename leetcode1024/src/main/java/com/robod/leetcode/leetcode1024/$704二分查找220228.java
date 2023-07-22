@@ -1,11 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/2/28 10:54
- * @description 给定一个 n 个元素有序的（升序）整型数组 nums 和一个目标值 target ，写一个函数搜索 nums 中的 target，如果目标值存在返回下标，否则返回 -1。
- * 二分查找
- */
+ * @ClassName $704二分查找220228
+ * @Description 简单。https://leetcode.cn/problems/binary-search/
+ * @Author Robod
+ * @Date 2022/2/28 10:54
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $704二分查找220228 {
 
     private int search(int[] nums, int target) {

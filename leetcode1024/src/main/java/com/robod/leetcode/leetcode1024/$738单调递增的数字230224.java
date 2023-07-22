@@ -5,7 +5,7 @@ package com.robod.leetcode.leetcode1024;
  * @Description 中等，贪心。https://leetcode.cn/problems/monotone-increasing-digits/
  * @Author Robod
  * @Date 2023/2/24 21:56
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $738单调递增的数字230224 {

@@ -10,7 +10,7 @@ import java.util.Queue;
  * @Author Robod
  * @Date 2023/2/3 22:43
  * @Version 1.0
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $59_2队列的最大值230203 {

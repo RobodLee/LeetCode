@@ -6,7 +6,7 @@ package com.robod.leetcode.leetcode1024;
  * @Author Robod
  * @Date 2022/2/28 16:53
  * @Version 1.0
- * @github <a href="https://github.com/RobodLee/DayDayUP"/>
+ * @Github https://github.com/RobodLee/DayDayUP
  * @Copyright 微信公众号：Robod | 好好学习，天天向上！
  **/
 public class $34在排序数组中查找元素的第一个和最后一个位置220228 {

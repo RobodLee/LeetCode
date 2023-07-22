@@ -1,10 +1,13 @@
 package com.robod.leetcode.offer;
 
 /**
- * @author Robod
- * @date 2022/6/12 21:00
- * @description :https://leetcode.cn/problems/ti-huan-kong-ge-lcof/
- */
+ * @ClassName $05替换空格220612
+ * @Description :https://leetcode.cn/problems/ti-huan-kong-ge-lcof/
+ * @Author Robod
+ * @Date 2022/6/12 21:00
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $05替换空格220612 {
 
     public String replaceSpace(String s) {
@@ -34,4 +37,5 @@ public class $05替换空格220612 {
         }
         return new String(chars);
     }
+
 }

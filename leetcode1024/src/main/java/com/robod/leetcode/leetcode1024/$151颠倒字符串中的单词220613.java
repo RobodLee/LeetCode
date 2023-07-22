@@ -1,12 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/6/13 15:21
- * @description :https://leetcode.cn/problems/reverse-words-in-a-string/
- * <p>
- * 中等。字符串
- */
+ * @ClassName $151颠倒字符串中的单词220613
+ * @Description 中等。https://leetcode.cn/problems/reverse-words-in-a-string/
+ * @Author Robod
+ * @Date 2022/6/13 15:21
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $151颠倒字符串中的单词220613 {
 
     public static String reverseWords(String s) {

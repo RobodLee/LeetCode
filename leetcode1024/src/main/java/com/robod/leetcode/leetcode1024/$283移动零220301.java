@@ -1,13 +1,13 @@
 package com.robod.leetcode.leetcode1024;
 
 /**
- * @author Robod
- * @date 2022/3/1 11:45
- * @description 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。
- * 请注意 ，必须在不复制数组的情况下原地对数组进行操作。
- * <p>
- * 简单，快慢双指针
- */
+ * @ClassName $283移动零220301
+ * @Description 简单。https://leetcode.cn/problems/move-zeroes/
+ * @Author Robod
+ * @Date 2022/3/1 11:45
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $283移动零220301 {
 
     private void moveZeroes(int[] nums) {

@@ -5,12 +5,13 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author Robod
- * @date 2022/5/1 20:03
- * @description :https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/
- * <p>
- * 中等。哈希
- */
+ * @ClassName $438找到字符串中所有字母异位词220501
+ * @Description 中等。https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/
+ * @Author Robod
+ * @Date 2022/5/1 20:03
+ * @Github https://github.com/RobodLee/DayDayUP
+ * @Copyright 微信公众号：Robod | 好好学习，天天向上！
+ **/
 public class $438找到字符串中所有字母异位词220501 {
 
     public List<Integer> findAnagrams(String s, String p) {
@@ -31,4 +32,5 @@ public class $438找到字符串中所有字母异位词220501 {
         }
         return result;
     }
+
 }
