@@ -3,6 +3,12 @@ package com.robod.leetcode.leetcode1024;
 import cn.hutool.json.JSONUtil;
 import com.robod.leetcode.common.entity.ListNode;
 
+/**
+ * @ClassName $2两数相加240922
+ * @Description 中等。https://leetcode.cn/problems/add-two-numbers/description/
+ * @Author Robod
+ * @Date 2024/9/23 下午9:11
+ */
 public class $2两数相加240922 {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
