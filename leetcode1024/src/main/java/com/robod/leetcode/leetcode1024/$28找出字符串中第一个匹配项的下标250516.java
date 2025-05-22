@@ -1,6 +1,8 @@
 package com.robod.leetcode.leetcode1024;
 
-
+/**
+ * https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/
+ */
 public class $28找出字符串中第一个匹配项的下标250516 {
 
     public int strStr(String haystack, String needle) {
